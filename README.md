@@ -1,5 +1,10 @@
 # TestsForTeaching
 Test programs etc for teaching presentation
+
+Online compilers for cpp:
+https://www.programiz.com/cpp-programming/online-compiler/
+http://cpp.sh/
+
 Lesson 1: 
 Lesson 2: 
 Lesson 3: 
