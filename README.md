@@ -6,8 +6,11 @@ https://www.programiz.com/cpp-programming/online-compiler/
 http://cpp.sh/
 
 Lesson 1 - VS Code basics, Hello World, Intro to Variables
+
 Lesson 2 - Creating a GitHub account, repository, commit, push, fetch, pull
+
 Lesson 3 - Basic structures - if/else, start loops?
+
 Lesson 4 - 
 
 To Do:
